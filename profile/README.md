@@ -2,4 +2,9 @@
 
 ### Projects
 
-[No System](https://nosystem.chat)
+* [No System](https://nosystem.chat)
+* [WendiLunar Merch](https://wendilunar.com)
+* [Diary](https://diary.kyle.so)
+* [Quack](https://github.com/quackdiscord/bot)
+* Hansumfella Merch
+
